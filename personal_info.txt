@@ -1,0 +1,3 @@
+Name: Hiram
+Location: San Jose
+Favorite drink: Beer
